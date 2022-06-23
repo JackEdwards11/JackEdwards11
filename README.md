@@ -1,0 +1,7 @@
+- I’m @JackEdwards11
+- Also known as Jack.
+- I am a student at Florida Institute of Technology pursuing my Masters in Computer Science.
+- Always been interested in game development and decided to try and learn it on the side. Maybe one day make a career out of it.
+- I’m looking to collaborate on anything game development related.
+- Focusing on C++ and Unreal.
+- How to reach me Twitter: @jackedwards_11  Instagram: @jackedwards_11
